@@ -11,7 +11,9 @@ This project si organized as follows:
 1. A model to predict the type of iris Plant, based on  the famous IRIS dataset.It depends on four parameters, given in the jupyter notebook given
 2. Save the model using pickle
 3. We have app.py which where the flask application is written
-4.The saved model is used in the app.py, to serve the requests
+4.The saved model is used in the app.py, to serve the requests\
+
+
 To check a demo:
 
 1. Clone this repo

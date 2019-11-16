@@ -17,5 +17,6 @@ This project si organized as follows:
 To check a demo:
 
 1. Clone this repo
+
 2.Run the flask app by ( $python app.py) in a virtual environment with most ofthe major libraries
    You may use a virtual environment in Anaconda. 
